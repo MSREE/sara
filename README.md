@@ -1,2 +1,2 @@
 # sara
-testrepo ror git commands demonstration
+testrepo for git commands demonstration
